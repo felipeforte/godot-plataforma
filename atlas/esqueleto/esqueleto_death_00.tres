@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://dtd18lxknm32q"]
+
+[ext_resource type="Texture2D" uid="uid://b1inllgmokluy" path="res://assets/Monsters_Creatures_Fantasy/Skeleton/Death.png" id="1_lj2ru"]
+
+[resource]
+atlas = ExtResource("1_lj2ru")
+region = Rect2(60, 50, 45, 51)

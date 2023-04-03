@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://byr82q2ogg872"]
+
+[ext_resource type="Texture2D" uid="uid://dijvs06bkrqtk" path="res://assets/Monsters_Creatures_Fantasy/Skeleton/Walk.png" id="1_mfvsu"]
+
+[resource]
+atlas = ExtResource("1_mfvsu")
+region = Rect2(360, 50, 45, 51)

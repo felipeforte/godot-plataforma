@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://r82uj2llebgg"]
+
+[ext_resource type="Texture2D" uid="uid://c8ysekc3i4nny" path="res://assets/Monsters_Creatures_Fantasy/Skeleton/Idle.png" id="1_dwl35"]
+
+[resource]
+atlas = ExtResource("1_dwl35")
+region = Rect2(210, 50, 45, 51)

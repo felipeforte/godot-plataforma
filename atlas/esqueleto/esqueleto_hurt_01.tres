@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://dddnu2dijpw51"]
+
+[ext_resource type="Texture2D" uid="uid://b7ukw4ji5aig2" path="res://assets/Monsters_Creatures_Fantasy/Skeleton/Take Hit.png" id="1_pfx8i"]
+
+[resource]
+atlas = ExtResource("1_pfx8i")
+region = Rect2(350, 50, 65, 51)

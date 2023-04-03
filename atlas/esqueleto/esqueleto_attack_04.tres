@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://clmayamny80k0"]
+
+[ext_resource type="Texture2D" uid="uid://cuqjtstnrtbph" path="res://assets/Monsters_Creatures_Fantasy/Skeleton/Attack.png" id="1_pqkjg"]
+
+[resource]
+atlas = ExtResource("1_pqkjg")
+region = Rect2(503, 44, 36, 57)
