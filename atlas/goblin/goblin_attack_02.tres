@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://dsmod7jp5nweg"]
+
+[ext_resource type="Texture2D" uid="uid://cin4wcdni6q2h" path="res://assets/Monsters_Creatures_Fantasy/Goblin/Attack.png" id="1_4nrym"]
+
+[resource]
+atlas = ExtResource("1_4nrym")
+region = Rect2(360, 65, 30, 36)
